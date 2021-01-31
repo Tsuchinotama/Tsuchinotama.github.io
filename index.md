@@ -2,7 +2,8 @@ Test Github hosted Website
 
 ## Games projects
 
-Put the link to chess/mine-sweeper
+Put the link to projects
+[Chess](https://github.com/Tsuchinotama/Tsuchinotama.github.io/Chess)
 
 ## Welcome to GitHub Pages
 
